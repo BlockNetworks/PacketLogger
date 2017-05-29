@@ -1,7 +1,7 @@
 name: PacketLogger
 author: shoghicp
-api: 2.0.0
-version: 1.2.0
+api: [3.0.0-ALPHA5, 3.0.0-ALPHA6]
+version: 1.2.1
 main: shoghicp\PacketLogger\PacketLogger
 description: Log network packets as you want
 website: https://github.com/shoghicp/PluginLogger

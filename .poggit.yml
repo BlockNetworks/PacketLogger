@@ -2,4 +2,5 @@
 projects:
   PacketLogger:
     path: ""
+    icon: packetlogger.png
 ...
