@@ -1,6 +1,6 @@
-name: PacketLogger
+//name: PacketLogger
 author: shoghicp
-api: [3.0.0-ALPHA7]
+api: [3.0.0-ALPHA7, 3.0.0-ALPHA8]
 version: 1.2.1-dev1
 main: shoghicp\PacketLogger\PacketLogger
 description: Log network packets as you want
